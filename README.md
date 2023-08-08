@@ -13,6 +13,14 @@
 <p align="center"><strong>Collection of smart contracts deployable via the thirdweb SDK, dashboard and CLI</strong></p>
 <br />
 
+## Deploy on PepeSync
+Developer Testnet Available Here
+https://pepesync.xyz/leap-testnet/
+
+Visit Thirdweb using PepeSync Testnet
+
+https://thirdweb.com/pepesync-leap
+
 ## Installation
 
 ```shell
